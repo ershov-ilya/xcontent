@@ -1,0 +1,9 @@
+﻿NOTE! This snippet [[xContent]] for use ONLY in template layout, instead of [[*content]] tag!
+
+/* xContent ver.1.0.0-beta
+---------------------------------------------------------*/
+- Formed in transport packet
+
+/* xContent ver.0.9.0-beta
+---------------------------------------------------------*/
+- this version works fine, but needed in manual to install and configure

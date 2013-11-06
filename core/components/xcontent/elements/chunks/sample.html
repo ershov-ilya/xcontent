@@ -1,0 +1,5 @@
+	<base href="[[++site_url]]"/>
+	<link rel="canonical" href="[[~[[*id]]? &scheme=`full`]]" />
+<title>[[*pagetitle]] - [[++site_name]]</title>
+[[If? &subject=`[[*meta_keywords]]` &operator=`notempty` &then=`<meta name="keywords" content="[[*meta_keywords]]"/>` &else=`<meta name="keywords" content="[[*longtitle]]"/>`]]
+[[If? &subject=`[[*description]]` &operator=`notempty` &then=`<meta name="description" content="[[*description]]"/>` &else=`<meta name="description" content="[[*longtitle]]"/>`]]

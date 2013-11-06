@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd51d833-2119-47e8-9da3-1375490e35b8" name="Default" comment="Included snippet in transport packet">
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\.idea\MetaTager.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\_build\index.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\colorbox.ai" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\colorbox\jquery.colorbox-min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\colorbox\jquery.colorbox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\content\ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\content\flash.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\content\homer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\content\marylou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\content\ohoopee1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\content\ohoopee2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\content\ohoopee3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\border1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\border2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderBottomCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderBottomLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderBottomRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderMiddleLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderMiddleRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderTopCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderTopLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\ie6\borderTopRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\effetto\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\border.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\controls.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderBottomCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderBottomLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderBottomRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderMiddleLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderMiddleRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderTopCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderTopLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\ie6\borderTopRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\loading_background.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\images\overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example1\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example2\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example2\images\controls.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example2\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example2\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example3\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example3\images\controls.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example3\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example3\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\border1.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\border2.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderBottomCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderBottomLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderBottomRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderMiddleLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderMiddleRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderTopCenter.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderTopLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\ie6\borderTopRight.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example4\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example5\colorbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example5\images\border.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example5\images\controls.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example5\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example5\images\loading_background.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\colorbox\example5\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\grayscale.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\jquery-1.7.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\jquery-1.7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\jquery.timers.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\js-functions.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\json2.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\images\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\jquery.vegas.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\jquery.vegas.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\01.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\02.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\03.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\04.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\05.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\06.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\07.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\08.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\09.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\10.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\11.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\12.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\13.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\14.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\assets\components\metatager\lib\vegas\overlays\15.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\docs\changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\docs\license.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\docs\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\elements\chunks\metatager.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\elements\chunks\postHead.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\elements\chunks\preHead.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\elements\chunks\title.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\elements\plugins\plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\xcontent\core\components\metatager\elements\snippets\snippet.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/build.transport.php" afterPath="$PROJECT_DIR$/_build/build.transport.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_build/data/transport.snippets.php" afterPath="$PROJECT_DIR$/_build/data/transport.snippets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="xcontent.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="xcontent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.transport.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_build/build.transport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="19" selection-start="264" selection-end="264" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="3621">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.config.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_build/build.config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="12" selection-start="274" selection-end="274" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="748">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transport.chunks.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_build/data/transport.chunks.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="697">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transport.snippets.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_build/data/transport.snippets.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="159" selection-start="205" selection-end="284" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xcontent.snippet.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/components/xcontent/elements/snippets/xcontent.snippet.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="17" selection-start="412" selection-end="412" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="1224">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="changelog.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/components/xcontent/docs/changelog.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/components/xcontent/docs/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="66" selection-start="161" selection-end="161" vertical-scroll-proportion="0.037444934" vertical-offset="0" max-vertical-offset="908">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="MrAgr3ssive" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/core/components/xcontent/elements/snippets/xcontent.snippet.php" />
+        <option value="$PROJECT_DIR$/_build/build.transport.php" />
+        <option value="$PROJECT_DIR$/_build/data/transport.snippets.php" />
+        <option value="$PROJECT_DIR$/core/components/xcontent/docs/changelog.txt" />
+        <option value="$PROJECT_DIR$/core/components/xcontent/docs/readme.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="D:\Google Диск\phpProjects\MODx\modx-2.2.10-pl" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1672" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modx-2.2.10-pl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="snippets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xcontent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web.server" />
+    <property name="last_opened_file_path" value="D:/Google Диск/phpProjects/MODx/modx-2.2.10-pl" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig" serverName="Ershov.pw" serverId="02f603ff-3f2c-4e71-9e3c-df23b70a8137" autoUpload="true">
+    <servers>
+      <server id="02f603ff-3f2c-4e71-9e3c-df23b70a8137">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ershov.pw/docs/packages/xcontent" local="$PROJECT_DIR$" web="/packages/xcontent" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd51d833-2119-47e8-9da3-1375490e35b8" name="Default" comment="" />
+      <created>1383715081122</created>
+      <updated>1383715081122</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1672" y="-8" width="1696" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21627408" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.7837259" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Included snippet in transport packet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Included snippet in transport packet" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/components/xcontent/xcontent.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/build.config.sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="261" selection-end="261" vertical-scroll-proportion="0.38501742" vertical-offset="0" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/build.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="12" selection-start="274" selection-end="274" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="748">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/data/transport.chunks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="908">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/build.transport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="19" selection-start="264" selection-end="264" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="3621">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/components/xcontent/elements/snippets/xcontent.snippet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="412" selection-end="412" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/data/transport.snippets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="159" selection-start="205" selection-end="284" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/components/xcontent/docs/changelog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/components/xcontent/docs/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="66" selection-start="161" selection-end="161" vertical-scroll-proportion="0.037444934" vertical-offset="0" max-vertical-offset="908">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
