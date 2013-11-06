@@ -1,5 +1,5 @@
 <?php
-include_once (MODX_CORE_PATH.'components/xcontent/elements/snippets/xcontent.config.php');
+include_once (MODX_ASSETS_PATH .'components/xcontent/xcontent.config.php');
 
 /* @var modX $modx */
 /* @var modResource $resource */
