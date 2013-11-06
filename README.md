@@ -7,4 +7,6 @@ NOTE! This snippet [[xContent]] for use ONLY in template layout, instead of [[*c
 Before start: You have to configure
  /assets/components/xcontent/xcontent.config.php
 
- with your own regular expressions for you SEO focus words.
+ with your own regular expressions for your SEO focus words.
+
+U can download compiled transport packet here: http://ershov.pw/blog/modx-revolution/snippet-vnutrennej-perelinkovki
