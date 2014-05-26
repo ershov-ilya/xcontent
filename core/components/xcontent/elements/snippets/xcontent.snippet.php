@@ -9,7 +9,7 @@ $content = $modx->resource->get('content');
 // check config
 $disable = $modx->resource->getTVValue(5);
 //$disable = false;
-if(!isset($REG) || $disable) { print $content; return '';}
+if(!isset($REG) || $disable) { return $content;}
 $arr = explode("\n", $content);
 
 // Settings
