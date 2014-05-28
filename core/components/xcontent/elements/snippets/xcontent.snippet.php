@@ -2,7 +2,7 @@
  /**
  * Project: xContent
  * Date: 28.05.14
- * Time: 8:56
+ * Time: 9:10
  * Author:  ILYA ERSHOV
  * http://about.me/ershov.ilya
  * GitHub:  https://github.com/ershov-ilya
@@ -13,13 +13,14 @@
 $defconfig = array(
     'id' => $modx->resource->get('id'),
     'context' => $modx->context->key,
+    'debug' => 0,
     'links_limit' => 3,
     'skip_lines' => 0,
     'skip_page_tv_id' => 8
 );
 $config = array_merge($defconfig, $scriptProperties);
 
-define('DEBUG', 0);
+define('DEBUG', $config['debug']);
 define('SKIP_LINES', $config['skip_lines']); // $config['skip_lines']
 define('LINKS_LIMIT', $config['links_limit']); // $config['links_limit']
 $output='';
@@ -30,7 +31,8 @@ include_once (MODX_ASSETS_PATH .'components/xcontent/xcontent.config.php');
 /* @var modResource $resource */
 
 //read text
-$content = $modx->resource->get('content');
+$resource = $modx->getObject('modResource', $config['id']);
+$content = $resource->get('content');
 // check config
 $disable = $modx->resource->getTVValue($config['skip_page_tv_id']);
 if(!isset($REG) || $disable) { return $content;}
